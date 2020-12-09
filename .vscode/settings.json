@@ -1,0 +1,25 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#ffc776",
+        "activityBar.activeBorder": "#009f5e",
+        "activityBar.background": "#ffc776",
+        "activityBar.foreground": "#15202b",
+        "activityBar.inactiveForeground": "#15202b99",
+        "activityBarBadge.background": "#009f5e",
+        "activityBarBadge.foreground": "#e7e7e7",
+        "statusBar.background": "#ffb243",
+        "statusBar.foreground": "#15202b",
+        "statusBarItem.hoverBackground": "#ff9d10",
+        "titleBar.activeBackground": "#ffb243",
+        "titleBar.activeForeground": "#15202b",
+        "titleBar.inactiveBackground": "#ffb24399",
+        "titleBar.inactiveForeground": "#15202b99"
+    },
+    "peacock.color": "#FFB243",
+    "workbench.colorTheme": "Material Theme",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.preferredDarkColorTheme": "Material Theme",
+    "materialTheme.accent": "Breaking Bad",
+    "workbench.preferredHighContrastColorTheme": "Material Theme",
+    "workbench.preferredLightColorTheme": "Material Theme"
+}
